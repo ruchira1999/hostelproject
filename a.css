@@ -1,0 +1,113 @@
+.d1
+{
+        
+	text-align:center;
+        font-family:monospace;
+        color:#3241A2;
+         
+        
+	
+}
+
+#e1{
+     font-size: 30px;
+    margin-left: 10px;
+    border-radius: 5px;
+    width:11%; height:24%;
+    
+}
+
+#b1
+{
+    color: #DC143C;
+    padding: 10px;
+    width: 30%; height:56%;
+        font-size: 25px; 
+        border-radius:5px;
+    
+}
+
+#b2{
+    
+    width:11%; height:24%;
+    font-size: 30px;
+    border-radius:5px;
+}
+.d2
+{
+    text-align: center;
+}
+.D{
+    background-color: rgb(246,222,196,1);
+    width: 80%; height:auto;
+    margin: auto;
+    box-shadow:-5px -5px red;
+    border-radius: 15px;
+}
+.c1
+{
+background-color:	 #27918D;
+}
+.back
+{
+background-color:#F6DEC4;
+width:auto;
+}
+.login{
+    text-align:right;
+    
+}
+
+.loginAdmin{
+    background-color: #cce7ff;
+    width: 500px;
+    height: 500px;
+   margin: auto;
+   margin-top: 80px;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 25px;
+    padding-top: 50px;
+    box-shadow:-5px -5px #80c3ff;
+    border-radius: 10px;
+    align-content: center;
+    text-align: center;
+    
+    
+        
+    
+}
+
+input[type="text"]
+{
+    height: 30px;
+}
+input[type="submit"]
+{
+    height: 40px;
+    width: 100px;
+    font-size: 20px;
+}
+input[type="password"]
+{
+    height: 30px;
+    
+}
+.row
+{
+    font-size: 45px;
+    color:white;
+    
+}
+.option1
+{
+    margin:auto;
+    height: 300px;
+    width: 300px;
+    font-size: 27px;
+    border-collapse:separate; 
+      border-spacing:0 15px; 
+  
+    
+}
+
